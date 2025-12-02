@@ -1,0 +1,2 @@
+# Samproject
+my first repository
